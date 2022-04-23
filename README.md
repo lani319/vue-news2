@@ -27,3 +27,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue-news2
 # vue-news2
 # vue-news2
+# vue-news2
